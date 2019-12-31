@@ -22,7 +22,7 @@ If you want to change the font color to white, or the background image to the ri
     > Also note that your CORS chrome extension will need to be on for it to work!
 2.  a.   Use the [Open Weather API](http://api.openweathermap.org) to get the current weather.  You'll need to sign up for an account and get an API key. 
    
-    b.  Figure out how to get the right data!  We want to use this API to get the current temperature in Riyadh.  Spend 15 minutes reading [the docs](https://openweathermap.org/current) and using Postman to figure out how to get the current temperature in Riyadh from this API.  Reading documentation to figure out how to access data is an important skill, try and give it your best shot!
+    b.  Figure out how to get the right data!  We want to use this API to get the current temperature in Jeddah.  Spend 15 minutes reading [the docs](https://openweathermap.org/current) and using Postman to figure out how to get the current temperature in Jeddah from this API.  Reading documentation to figure out how to access data is an important skill, try and give it your best shot!
    
     If you can't figure out how to do this in 15 minutes, the answer is below.
   
@@ -32,7 +32,7 @@ If you want to change the font color to white, or the background image to the ri
     This is the endpoint needed to get the data:
 
 
-    > http://api.openweathermap.org/data/2.5/weather?q=Riyadh&units=metric&APPID=REPLACETHISWITHYOURID
+    > http://api.openweathermap.org/data/2.5/weather?q=Jeddah&units=metric&APPID=REPLACETHISWITHYOURID
 
     </details>
 
